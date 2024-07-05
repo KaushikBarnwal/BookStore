@@ -1,0 +1,34 @@
+[   
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": "0",
+        "category": "free",
+        "image": "https://www.freepik.com/free-vector/flat-design-stack-books-illustration_25736280.htm#fromView=search&page=1&position=0&uuid=adf248e7-dca3-4dc0-8d76-0ee7e2e80a5a"
+    },
+    {
+        "id": 2,
+        "name": "Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": "0",
+        "category": "free",
+        "image": "https://www.freepik.com/free-vector/flat-design-stack-books-illustration_25736280.htm#fromView=search&page=1&position=0&uuid=adf248e7-dca3-4dc0-8d76-0ee7e2e80a5a"
+    },
+    {
+        "id": 3,
+        "name": "Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": "0",
+        "category": "free",
+        "image": "https://www.freepik.com/free-vector/flat-design-stack-books-illustration_25736280.htm#fromView=search&page=1&position=0&uuid=adf248e7-dca3-4dc0-8d76-0ee7e2e80a5a"
+    },
+    {
+        "id": 4,
+        "name": "Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": "0",
+        "category": "free",
+        "image": "https://www.freepik.com/free-vector/flat-design-stack-books-illustration_25736280.htm#fromView=search&page=1&position=0&uuid=adf248e7-dca3-4dc0-8d76-0ee7e2e80a5a"
+    }
+]
